@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://math.unm.edu/'>Department of Mathematics and Statistics at the University of New Mexico</a>. 311 Terrace Street NE, Albuquerque, NM  87106. josejgarcia@unm.edu.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>SMLC 317</p>
+    <p>311 Terrace Street NE</p>
+    <p>Albuquerque, NM  87106</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is in the area of computing topological invariants for physical systems using a composite operator approach. The work also has applications to non-Hermitian physics where there is still more theoretical work to be completed in terms of computing topological invariants. Another portion of my work is in regards to finding approximate joint eigenvectors of nearly commuting matrices, both in the Hermitian and non-Hermitian case.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of research, I am involved as a Steward for the Graduate Student Union of UNM. I also volunteer my time to Janet Kahn School of Integrated Arts Parent Teacher Association as the chair of the Communications Committee and a board member.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my offtime I enjoy spending time with family. This can range from watching a movie, going camping, spending time at the park and traveling. I also enjoy writting to my pen pals and I'm a fan of anime and manga.
