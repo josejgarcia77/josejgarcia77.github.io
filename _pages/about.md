@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://math.unm.edu/'>Department of Mathematics and Statistics at the University of New Mexico</a>. 311 Terrace Street NE, Albuquerque, NM  87106. josejgarcia@unm.edu.
+subtitle: PhD Candidate | <a href='https://math.unm.edu/'>Department of Mathematics and Statistics at the University of New Mexico</a> | josejgarcia@unm.edu.
 
 profile:
   align: right
