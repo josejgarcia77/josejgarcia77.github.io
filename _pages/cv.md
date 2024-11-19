@@ -1,9 +1,8 @@
 ---
 layout: default
-permalink: /cv/
+permalink: /assets/pdf/Garcia_Jose_CV_November_2024.pdf
 title: cv
 nav: true
-nav_order: 1
-redirect_to: /assets/pdf/Garcia_Jose_CV_November_2024.pdf
+nav_order: 2
 description: José J. Garcia's CV
 ---
