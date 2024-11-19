@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Searching Games: Two unknowns and a Lie
+title: Searching Games - Two unknowns and a Lie
 description: Results on both online and offline guessing games.
 img:
 importance: 1
