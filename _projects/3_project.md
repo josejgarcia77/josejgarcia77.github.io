@@ -8,6 +8,8 @@ importance: 3
 category: work
 ---
 
+Advisor: Dr. William Dickinson
+
 During the Edo period (1603 - 1868), the Japanese people generated Euclidean results that were quite different from those developed in the Western World.
 Often they where drawn and painted on wooden tablets and placed in temples as acts of worship.
 We investigate one of these problems that involves the incenter for a triangle generated from two tangent lines to a given circle.
