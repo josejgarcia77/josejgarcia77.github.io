@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 Time Frame: Fall 2024
+Advisors: Dr. Terry A. Loring, Dr. Alexander Cerjan
 
 The determinant of a matrix has many applications including but not limited to Physics, Computer Science, and other areas of Linear Algebra itself. One of the topological invariants that can be computed for specific physical system in the Altman-Zirnbouer (AZ) classification can be done by computing the sign of the determiant. Moreover many applications have corresponding sparse real matrices which potentially large condition number. In the paper we review some main mathematical results and generate a numerical implementation. We do a time and error analysis on both pseudorandomly generated matrices as well as a test on a Class D in 1D for various numbers of cites.
 
