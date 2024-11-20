@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate | <a href='https://math.unm.edu/'>Department of Mathematics and Statistics</a> | <a href='https://unm.edu/'>University of New Mexico</a> | josejgarcia@unm.edu.
+subtitle: PhD Candidate | <a href='https://math.unm.edu/'>Department of Mathematics and Statistics</a> | <a href='https://unm.edu/'>University of New Mexico</a> | <a href="mailto:josejgarcia@unm.edu">josejgarcia@unm.edu</a>
 
 profile:
   align: right
