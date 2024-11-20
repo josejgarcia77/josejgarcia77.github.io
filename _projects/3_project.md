@@ -4,7 +4,7 @@ title: Japanese Tablet Temple Problems
 description: A non-Euclidean geometry math problem motivated by it's Euclidean Counterpart
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 
