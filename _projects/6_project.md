@@ -4,7 +4,7 @@ title: Stirling Numbers of Sunflower Graphs
 description: Combinatorics of a special type of graph, relation to graph colorings, and recursion.
 img:
 importance: 1
-category: work
+category: undergraduate
 related_publications: false
 ---
 
