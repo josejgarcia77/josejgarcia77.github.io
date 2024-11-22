@@ -4,7 +4,7 @@ title: Sign of the Determinant of Real Sparse Matrix
 description: Numerical methods on computing the sign fo a real sparse matrix with applications to physics
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: graduate
 related_publications: false
 ---
 
