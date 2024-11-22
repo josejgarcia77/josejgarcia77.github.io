@@ -4,7 +4,7 @@ title: Automated Conjecture Making - Domination on Planar Graphs
 description: Determining an upper bound for the radius of a plannar graph via automated conjecture making software.
 img: assets/img/1.jpg
 importance: 1
-category: work
+category: undergraduate
 related_publications: false
 ---
 
