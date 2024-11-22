@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Assistant Experience
 ##### Instructor of Record
 * Fall 2023 : Math 1512 - Calculus I
 * Spring 2023 : Math 1522 - Calculus II
