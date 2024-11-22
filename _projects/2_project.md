@@ -4,7 +4,7 @@ title: Clifford and Quadratic Composite Operators with Applications to non-Hermi
 description: Research project on non-Hermitian physics and composite operators and their gap functions
 img: assets/img/3.jpg
 importance: 1
-category: work
+category: graduate
 related_publications: false
 ---
 
