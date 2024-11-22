@@ -4,7 +4,7 @@ title: Searching Games - Two unknowns and a Lie
 description: Results on both online and offline guessing games.
 img:
 importance: 1
-category: work
+category: undergraduate
 related_publications: false
 ---
 
