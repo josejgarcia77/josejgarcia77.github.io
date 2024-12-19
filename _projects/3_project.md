@@ -2,7 +2,7 @@
 layout: page
 title: Japanese Tablet Temple Problems
 description: A non-Euclidean geometry math problem motivated by it's Euclidean Counterpart
-img: assets/img/7.jpg
+img: assets/img/sangaku_project.png
 importance: 1
 category: undergraduate
 ---
