@@ -18,8 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research is in the area of computing topological invariants for physical systems using a composite operator approach. The work also has applications to non-Hermitian physics where there is still more theoretical work to be completed in terms of computing topological invariants. Another portion of my work is in regards to finding approximate joint eigenvectors of nearly commuting matrices, both in the Hermitian and non-Hermitian case.
+Welcome! I am a PhD candidate in the Department of Mathematics and Statistics at the University of New Mexico. My research lies at the intersection of linear algebra, quantum mechanics, condensed matter physics, and network science, where I develop mathematical and computational methods for understanding complex systems.
 
-Outside of research, I am involved as a Steward for the Graduate Student Union of UNM. I also volunteer my time to Janet Kahn School of Integrated Arts Parent Teacher Association as the chair of the Communications Committee and a board member.
+A significant portion of my research focuses on composite operator approaches to quantum systems and the computation of topological invariants for physical systems. This work has applications to topological materials and non-Hermitian physics, where many theoretical challenges remain open. I am also interested in the study of approximate joint eigenvectors of nearly commuting matrices and graph sparsification techniques for community detection in large-scale networks.
 
-During my offtime I enjoy spending time with family. This can range from watching a movie, going camping, spending time at the park and traveling. I also enjoy writting to my pen pals and I'm a fan of anime and manga.
+Over the past six years, I have combined research and teaching, instructing undergraduate courses including Calculus, Linear Algebra, and Ordinary Differential Equations. I have also collaborated with researchers at Sandia National Laboratories on projects involving quantum systems, topological materials, and scientific computing.
+
+Beyond my research, I am actively involved in the mathematical community. I currently serve as Treasurer of the University of New Mexico Association for Women in Mathematics Student Chapter and as an officer of both the UNM SIAM Student Chapter and the Mathematics and Statistics Graduate Student Organization. Through these organizations, I enjoy supporting student engagement, professional development, outreach, and community-building within the mathematical sciences.
+
+More broadly, I am interested in developing mathematical frameworks that reveal hidden structure in complex physical and data-driven systems. Through this website, you can explore my research projects, publications, open-source software repositories, teaching activities, and ongoing collaborations.
+
+In my free time, I enjoy spending time with family, camping, traveling, corresponding with pen pals, watching anime and especially reading manga.
