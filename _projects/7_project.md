@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Structure Preserving Curvature-Guided Graph Sparsification
-description: A study of curvature-guided methods for sparcifying graphs whiel maintainging community structure with an eye towards computational improvements.
+description: A study of curvature-guided methods for sparcifying graphs while maintaining community structure with an eye towards computational improvements.
 img: assets/img/curvature.png
 importance: 1
 category: graduate
